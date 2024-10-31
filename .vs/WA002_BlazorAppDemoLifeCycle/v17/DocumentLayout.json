@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repository\\WebApplications\\WA002_BlazorAppDemoLifeCycle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB4F9DD-0511-4A67-B592-4A8A4DC4DE81}|WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle.csproj|d:\\repository\\webapplications\\wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AB4F9DD-0511-4A67-B592-4A8A4DC4DE81}|WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle.csproj|solutionrelative:wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB4F9DD-0511-4A67-B592-4A8A4DC4DE81}|WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle.csproj|d:\\repository\\webapplications\\wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB4F9DD-0511-4A67-B592-4A8A4DC4DE81}|WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle.csproj|solutionrelative:wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB4F9DD-0511-4A67-B592-4A8A4DC4DE81}|WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle.csproj|d:\\repository\\webapplications\\wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB4F9DD-0511-4A67-B592-4A8A4DC4DE81}|WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle.csproj|solutionrelative:wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB4F9DD-0511-4A67-B592-4A8A4DC4DE81}|WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle.csproj|d:\\repository\\webapplications\\wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AB4F9DD-0511-4A67-B592-4A8A4DC4DE81}|WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle.csproj|solutionrelative:wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB4F9DD-0511-4A67-B592-4A8A4DC4DE81}|WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle.csproj|d:\\repository\\webapplications\\wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AB4F9DD-0511-4A67-B592-4A8A4DC4DE81}|WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle.csproj|solutionrelative:wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB4F9DD-0511-4A67-B592-4A8A4DC4DE81}|WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle.csproj|d:\\repository\\webapplications\\wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AB4F9DD-0511-4A67-B592-4A8A4DC4DE81}|WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle.csproj|solutionrelative:wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB4F9DD-0511-4A67-B592-4A8A4DC4DE81}|WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle.csproj|d:\\repository\\webapplications\\wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AB4F9DD-0511-4A67-B592-4A8A4DC4DE81}|WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle.csproj|solutionrelative:wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB4F9DD-0511-4A67-B592-4A8A4DC4DE81}|WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle.csproj|d:\\repository\\webapplications\\wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AB4F9DD-0511-4A67-B592-4A8A4DC4DE81}|WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle.csproj|solutionrelative:wa002_blazorappdemolifecycle\\wa002_blazorappdemolifecycle\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\Repository\\WebApplications\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\Repository\\WebApplications\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T17:02:46.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Repository\\WebApplications\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\_Imports.razor",
+              "ToolTip": "D:\\Repository\\WebApplications\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\_Imports.razor",
+              "RelativeToolTip": "WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T17:02:44.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Repository\\WebApplications\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\App.razor",
+              "RelativeDocumentMoniker": "WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\App.razor",
+              "ToolTip": "D:\\Repository\\WebApplications\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\App.razor",
+              "RelativeToolTip": "WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T17:02:35.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\Repository\\WebApplications\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Routes.razor",
+              "ToolTip": "D:\\Repository\\WebApplications\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Routes.razor",
+              "RelativeToolTip": "WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T17:02:30.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Repository\\WebApplications\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Repository\\WebApplications\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T17:02:07.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor.cs",
+              "DocumentMoniker": "D:\\Repository\\WebApplications\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Pages\\Home.razor.cs",
+              "RelativeDocumentMoniker": "WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Pages\\Home.razor.cs",
+              "ToolTip": "D:\\Repository\\WebApplications\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Pages\\Home.razor.cs",
+              "RelativeToolTip": "WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Pages\\Home.razor.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:41:59.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Repository\\WebApplications\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Repository\\WebApplications\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T16:41:28.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repository\\WebApplications\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Program.cs",
+              "RelativeDocumentMoniker": "WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Program.cs",
+              "ToolTip": "D:\\Repository\\WebApplications\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Program.cs",
+              "RelativeToolTip": "WA002_BlazorAppDemoLifeCycle\\WA002_BlazorAppDemoLifeCycle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:40:31.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

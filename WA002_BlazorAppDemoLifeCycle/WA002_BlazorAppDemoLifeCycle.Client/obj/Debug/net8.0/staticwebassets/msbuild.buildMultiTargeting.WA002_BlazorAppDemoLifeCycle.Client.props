@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WA002_BlazorAppDemoLifeCycle.Client.props" />
+</Project>
